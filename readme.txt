@@ -28,5 +28,3 @@ Admin
 user: admin
 pass: 1234
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
